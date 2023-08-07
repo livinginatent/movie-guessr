@@ -1,8 +1,5 @@
-import { Raleway } from 'next/font/google';
-import { Lato } from 'next/font/google';
 import styled from "styled-components";
 import theme from "../../src/theme/theme";
-import myImage from "../../utils/s-l1600.jpg";
 import Image from "next/image";
 
 export const StyledWrapper = styled.div`
